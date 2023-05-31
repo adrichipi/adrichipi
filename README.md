@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on multimedia art development
 - 📫 How to reach me: send me an email
 
-Buenos Aires - Argentina - 2023
+Buenos Aires - Argentina - 2023 - Git
 
 <!---
 adrichipi/adrichipi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
